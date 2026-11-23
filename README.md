@@ -6,6 +6,8 @@
 The client is a company that is concerned about attackers getting into employee accounts and accessing important company information.
 The problem is that employees may use weak or easy-to-guess passwords. This can make it easier for attackers to access accounts. The client needs a simple tool that helps employees create longer and stronger passphrases.
 
+---
+
 **2. Why It Matters**
 
 Passwords are important because they help protect people's personal information and online accounts. Weak passwords can make it easier for someone to guess and access an account.
@@ -23,6 +25,9 @@ Another reason this matters is the increase in online scams. According to AARP's
 https://www.aarp.org/money/scams-fraud/fbi-ftc-report-2025-losses.html
 
 This shows why it is important for people to learn how to create stronger passphrases and protect their online accounts.
+
+
+---
 
 **3. What the Tool Does**
 
@@ -44,6 +49,7 @@ Allow users to continue checking passphrases until they choose to quit.
 ---
 
 **The tool will not:**
+
 Prevent hackers from accessing company accounts.
 
 Guarantee that a passphrase is completely secure.
