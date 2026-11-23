@@ -2,10 +2,10 @@ password = input("What is your password:")
 print(password )
 
 if password == "password":   
-    print(" \nPassword is to simple, plase enter a a new password that is 15 characters")
+    print(" \nPassword is to simple, please  enter a a new password that is 15 characters")
 
 else: 
-    print("Enter a longer password that is over 15 charchters") 
+    print("Enter a longer password that is over 15 characters") 
 
 user = input("Enter new password:")
 print(user)
