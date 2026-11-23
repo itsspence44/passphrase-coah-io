@@ -8,17 +8,21 @@ The problem is that employees may use weak or easy-to-guess passwords. This can 
 
 **2. Why It Matters**
 
-Password security is important because weak passwords can put company information and employee accounts at risk.
+Passwords are important because they help protect people's personal information and online accounts. Weak passwords can make it easier for someone to guess and access an account.
 
-According to the Cybersecurity and Infrastructure Security Agency (CISA), passwords should be at least 16 characters long. CISA also recommends using different passwords for different accounts.
+According to the National Institute of Standards and Technology (NIST), password length is an important factor in password strength. NIST also explains that using multiple words in a passphrase can be an effective way to create a longer password.
 
-_Source: CISA – Four Easy Ways to Stay Safe Online_
+*Source: NIST – Strength of Passwords*
 
-The National Institute of Standards and Technology (NIST) recommends a minimum of 15 characters for passwords used as a single authentication factor. Longer passwords can make it harder for attackers to guess them.
+https://pages.nist.gov/800-63-4/sp800-63b/passwords/ 
 
-_Source: NIST – Digital Identity Guidelines_
+Another reason this matters is the increase in online scams. According to AARP's report on FBI and FTC data, Americans reported losing more than $20.9 billion to internet crimes in 2025.
 
-These facts show why companies should encourage employees to use longer and stronger passphrases.
+*Source: AARP – FBI Report on Internet Crime Losses*
+
+https://www.aarp.org/money/scams-fraud/fbi-ftc-report-2025-losses.html
+
+This shows why it is important for people to learn how to create stronger passphrases and protect their online accounts.
 
 **3. What the Tool Does**
 
