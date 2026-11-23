@@ -41,8 +41,9 @@ Give users helpful messages when their passphrase needs improvement.
 
 Allow users to continue checking passphrases until they choose to quit.
 
-The tool will not:
+---
 
+**The tool will not:**
 Prevent hackers from accessing company accounts.
 
 Guarantee that a passphrase is completely secure.
