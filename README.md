@@ -1,6 +1,5 @@
-# Passphrase Coach
+# Passphrase Coach 
  
-
 **1. The Client and the Problem**
 
 Client: Nelsonville Senior Center, Cyber Safety Workshop
@@ -31,11 +30,6 @@ This shows why it is important for people to learn how to create stronger passph
 ---
 
 **3. What the Tool Does**
-
-Passphrase Coach is a Python program that helps users check their passphrases.
-
-
-**The tool will:**
 
 Ask users to enter a passphrase.
 
