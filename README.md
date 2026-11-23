@@ -3,8 +3,9 @@
 
 **1. The Client and the Problem**
 
-The client is a company that is concerned about attackers getting into employee accounts and accessing important company information.
-The problem is that employees may use weak or easy-to-guess passwords. This can make it easier for attackers to access accounts. The client needs a simple tool that helps employees create longer and stronger passphrases.
+Client: Nelsonville Senior Center, Cyber Safety Workshop
+
+Older adults are losing record amounts of money to online fraud, and many are still following outdated password advice. The workshop leader wants a tool participants can use during class to check a passphrase and get friendly, current advice. The rules must follow the current NIST guidance, which favors long passphrases and screening against common passwords over complicated character rules.
 
 ---
 
