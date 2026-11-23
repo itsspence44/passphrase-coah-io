@@ -1,5 +1,4 @@
-# Passphrase-coah-io
+# Passphrase-coach-io
 
-This is for Hocking College 
+Clients are having an issue of attackers getting into their company and they've hired you to help and make a python script for a passphrase. 
 
-Passphrase Coach is a Python program that helps users learn about creating stronger passphrases. It gives users information and tips to help them make better choices when creating passwords.
