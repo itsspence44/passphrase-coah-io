@@ -43,7 +43,7 @@ Allow users to continue checking passphrases until they choose to quit.
 
 ---
 
-**The tool will not:**
+**What it will not do:**
 
 Prevent hackers from accessing company accounts.
 
